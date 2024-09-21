@@ -1,14 +1,19 @@
 
 # [Chroma]( https://gamebanana.com/mods/540927 ) マップ更新履歴
 
-## v1.1.0 (202409xx, 作業中)
+## v1.1.0 (20240921)
 
 ### マップ変更
 
 - アセット・サウンドテスト部屋 `z-assets-*` を新規追加
+- ゴールデンベリーを `mei-transition-in` から `mei-mei` へ移動
 - `te-knk`: チーズ修正
-- `elytra-heart-04`: 鳥の巣に lightbeam を追加
-- Stylegrounds にアセット・サウンドテスト部屋用のレイヤーを追加
+- `saburo-saburo-02`: チーズ修正、ゲームプレイの変更、難易度調整、部屋の幅の変更
+  - この変更に伴い `saburo-*` の部屋の座標や `z-filler-hub-*` も変更しています。
+- `elytra-heart-04`: アセット・サウンドテスト部屋への遷移ギミックを追加
+- Stylegrounds 変更
+  - アセット・サウンドテスト部屋用のレイヤーを追加
+  - マップ制作途中の設定が残っていたため修正
 
 ### ダイアログ変更
 
@@ -36,10 +41,10 @@
 
 # [Chroma Assets]( https://gamebanana.com/mods/540928 ) 更新履歴
 
-## v1.0.1 (202409xx, 作業中)
+## v1.0.1 (20240921)
 
 - `Graphics/Atlases/Gui/areas/JPC2024/hover.png` を `JPC2024` 配下に移動
-- 一部アセットを修正
+- `Graphics/Atlases/Gameplay/decals/JPC2024/Fuwamo/handrailB.png` の画像サイズを修正
 
 ## v1.0.0 (20240908)
 
@@ -48,7 +53,7 @@
 
 # [Chroma Audio]( https://gamebanana.com/mods/540930 ) 更新履歴
 
-## v1.1.0 (202409xx, 作業中)
+## v1.1.0 (20240921)
 
 - `JPC2024/Audio/jpc2024_remix.*` を `JPC2024Audio` に移動
   - 本変更により Chroma 第 5 サブチャプターの BGM である [Shatter the Pantheon!]( https://celestestrawberryjam.bandcamp.com/track/shatter-the-pantheon ) リミックスが利用可能になります。イベント ID は `event:/jpc2024_remix/saburo/shatter_the_pantheon_remix` です。
