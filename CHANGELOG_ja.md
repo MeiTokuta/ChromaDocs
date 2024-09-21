@@ -1,4 +1,7 @@
 
+[English]( CHANGELOG.md ) | 日本語
+
+
 # [Chroma]( https://gamebanana.com/mods/540927 ) マップ更新履歴
 
 ## v1.1.0 (20240921)
