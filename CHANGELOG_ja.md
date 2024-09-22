@@ -24,8 +24,8 @@
 
 ### ファイル変更
 
-- `JPC2024Assets/Graphics/Atlases/Gui/areas/JPC2024/hover.png` を本 Mod 配下に移動
-- `Audio/jpc2024_remix.*` を `JPC2024Audio` に移動
+- `Graphics/Atlases/Gui/areas/JPC2024/hover.png` を `JPC2024Assets` から本 Mod 配下に移動
+- `Audio/jpc2024_remix.*` を本 Mod 配下から `JPC2024Audio` 配下に移動
 - `everest.yaml`: 依存関係に [Saladim Helper]( https://gamebanana.com/mods/472134 ) を追加
 - `Bonus/LinkToArtPhoto.txt` を追加
 
@@ -46,7 +46,7 @@
 
 ## v1.0.1 (20240921)
 
-- `Graphics/Atlases/Gui/areas/JPC2024/hover.png` を `JPC2024` 配下に移動
+- `Graphics/Atlases/Gui/areas/JPC2024/hover.png` を本 Mod 配下から `JPC2024` 配下に移動
 - `Graphics/Atlases/Gameplay/decals/JPC2024/Fuwamo/handrailB.png` の画像サイズを修正
 
 ## v1.0.0 (20240908)
@@ -58,7 +58,7 @@
 
 ## v1.1.0 (20240921)
 
-- `JPC2024/Audio/jpc2024_remix.*` を `JPC2024Audio` に移動
+- `Audio/jpc2024_remix.*` を `JPC2024` から本 Mod 配下に移動
   - 本変更により Chroma 第 5 サブチャプターの BGM である [Shatter the Pantheon!]( https://celestestrawberryjam.bandcamp.com/track/shatter-the-pantheon ) リミックスが利用可能になります。イベント ID は `event:/jpc2024_remix/saburo/shatter_the_pantheon_remix` です。
 
 ## v1.0.0 (20240908)
