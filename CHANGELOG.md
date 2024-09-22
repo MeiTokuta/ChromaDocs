@@ -56,6 +56,8 @@ English | [日本語]( CHANGELOG_ja.md )
 
 # [Chroma Audio]( https://gamebanana.com/mods/540930 ) Changelog
 
+## v1.1.0 (20240921)
+
 - Moved `Audio/jpc2024_remix.*` from `JPC2024` to this mod
   - Due to this changes, [Shatter the Pantheon!]( https://celestestrawberryjam.bandcamp.com/track/shatter-the-pantheon ) remix for 5th subchapter of Chroma will become available for use. The event ID is `event:/jpc2024_remix/saburo/shatter_the_pantheon_remix`.
 
