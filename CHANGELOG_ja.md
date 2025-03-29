@@ -56,6 +56,11 @@
 
 # [Chroma Audio]( https://gamebanana.com/mods/540930 ) 更新履歴
 
+## v1.2.0 (20250329)
+
+- Full Bloom (エピローグ BGM) をロングバージョンに更新
+- Edge of Nostalgia (第 2 サブチャプター BGM) の楽曲末尾のフェードカーブを修正
+
 ## v1.1.0 (20240921)
 
 - `Audio/jpc2024_remix.*` を `JPC2024` から本 Mod 配下に移動

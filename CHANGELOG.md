@@ -56,6 +56,11 @@ English | [日本語]( CHANGELOG_ja.md )
 
 # [Chroma Audio]( https://gamebanana.com/mods/540930 ) Changelog
 
+## v1.2.0 (20250329)
+
+- Updated "Full Bloom" (epilogue) to long version
+- Fixed the fade curve at the end of "Edge of Nostalgia" (subchapter 2)
+
 ## v1.1.0 (20240921)
 
 - Moved `Audio/jpc2024_remix.*` from `JPC2024` to this mod
